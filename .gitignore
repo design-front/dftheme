@@ -1,0 +1,24 @@
+#.gitignore
+.htaccess
+.editorconfig
+index.php
+languages/
+upgrade/
+uploads/
+
+themes/*
+!themes/dftheme/
+!themes/dftheme/*
+themes/dftheme/node_modules
+themes/dftheme/src
+themes/dftheme/gulp
+themes/dftheme/README.md
+themes/index.php
+
+#各プラグインは管理対象とするか確認してから含める。
+plugins/*
+
+#default file
+
+.DS_Store
+/wp-config.php
