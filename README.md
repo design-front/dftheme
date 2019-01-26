@@ -30,7 +30,7 @@ root
 ### 1."[Local by Flywheel](https://local.getflywheel.com/)"によるWordPressのインストール
 
 ### 2.リポジトリクローン
-``` git clone https://github.com/design-front/dftheme ```
+``` git clone git@github.com:design-front/dftheme.git ```
 
 ### 3.クローンしたファイルの移動
 
