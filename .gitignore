@@ -1,6 +1,12 @@
 #.gitignore
 .htaccess
 .editorconfig
+node_modules/
+style.css
+style.css.map
+editor-style.css
+editor-style.css.map
+bundle.js
 
 /*/*
 !/*/wp-content/
@@ -8,6 +14,8 @@
 !/*/wp-content/themes/
 /*/wp-content/themes/*
 !/*/wp-content/themes/dftheme/
+htdocs/
+
 
 #各プラグインは管理対象とするか確認してから含める。
 
