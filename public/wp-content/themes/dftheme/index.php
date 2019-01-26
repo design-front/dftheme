@@ -1,1 +1,3 @@
-<?php echo "dftheme"; ?>
+<?php get_header(); ?>
+<?php echo "dftheme2"; ?>
+<?php get_footer(); ?>
