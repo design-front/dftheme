@@ -57,3 +57,7 @@ root
 
 ``` npx gulp ```
 
+### 注意
+
+Local by Flywheel を利用する際にドメイン名が `***.local` というようにlocalとなっているとブラウザーシンクで読み込みが遅くなる場合があります。
+その場合は、 Local by Flywheel のドメイン名を変更し、 それに合わせてgulpfile.js の `proxy` を変更してください。
